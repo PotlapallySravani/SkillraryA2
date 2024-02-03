@@ -6,7 +6,7 @@ import java.util.Map;
 import org.testng.annotations.Test;
 
 import genericUtilities.BaseClass;
-
+//This test verifies that it is added to commit
 public class AddCategoryTest extends BaseClass{
 	@Test
 	public void addcategoryTest() {
